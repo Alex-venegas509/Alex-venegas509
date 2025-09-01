@@ -18,18 +18,21 @@
 
 ## 📂 Proyectos Destacados  
 
-### 🔹 [Sistema de Cotizaciones y Ensayos de Laboratorio - SENA](https://github.com/Alex-venegas509/ONAC.git)
-Aplicación web desarrollada con **PHP + MySQL** para gestionar cotizaciones y ensayos de laboratorio.  
-
-![Vista previa](https://i.imgur.com/ejemplo1.png)
-
+### 🔹 [Sistema de Cotizaciones y Ensayos de Laboratorio - SENA](https://github.com/Alex-venegas509/ONAC.git) 
+Aplicación web desarrollada con **PHP + MySQL** para gestionar cotizaciones y ensayos de laboratorio. 
+Incluye: 
+- Subida y descarga de archivos Excel (importación/exportación).
+- Generación de PDF con **TCPDF en PHP** y también con **Flask (Python)**.
+- Frontend en **HTML, CSS, JavaScript**.
+- Despliegue en entorno **XAMPP**.
 ---
 
-### 🔹 [Sistema Administrativo - SENA](https://github.com/Alex-venegas509/PROCESOS.git)
-Plataforma para la gestión de procesos administrativos del SENA.  
-
-![Dashboard](https://i.imgur.com/ejemplo2.png)
-
+### 🔹 [Sistema Administrativo - SENA](https://github.com/Alex-venegas509/PROCESOS.git)) 
+Plataforma para la gestión de procesos administrativos del SENA. Construida con un stack moderno: 
+- Backend en **Python (FastAPI)** con seguridad (autenticación, JWT).
+- Base de datos en **PostgreSQL**.
+- Frontend en **React + Next.js**.
+- Arquitectura modular lista para escalar.
 ---
 
 ## 📊 Estadísticas  
