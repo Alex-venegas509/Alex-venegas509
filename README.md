@@ -27,7 +27,7 @@ Incluye:
 - Despliegue en entorno **XAMPP**.
 ---
 
-### 🔹 [Sistema administrativo - SENA](https://github.com/Alex-venegas509/PROCESOS.git)) 
+### 🔹 [Sistema administrativo - SENA](https://github.com/Alex-venegas509/PROCESOS.git)
 Plataforma para la gestión de procesos administrativos del SENA. Construida con un stack moderno: 
 - Backend en **Python (FastAPI)** con seguridad (autenticación, JWT).
 - Base de datos en **PostgreSQL**.
@@ -42,6 +42,6 @@ Plataforma para la gestión de procesos administrativos del SENA. Construida con
 ---
 
 ## 📫 Conecta conmigo
-- 📧 **alex.venegas509@gmail.com**  
+- 📧 [email]**alex.venegas509@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/johan-alexander-venegas-pardo-521546322/)  
 - 🖥️ [Portafolio](https://github.com/)  
