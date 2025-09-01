@@ -44,4 +44,4 @@ Plataforma para la gestión de procesos administrativos del SENA. Construida con
 ## 📫 Conecta conmigo
 - 📧 **alex.venegas509@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/johan-alexander-venegas-pardo-521546322/)  
-- 🖥️ [Portafolio](https://Alex-venegas509.github.io/)  
+- 🖥️ [Portafolio](https://github.com/)  
